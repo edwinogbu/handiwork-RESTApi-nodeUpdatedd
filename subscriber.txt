@@ -1,0 +1,35 @@
+INSERT INTO courses (name, price, overview, duration) VALUES
+('Graphics Design', 60500, 'Learn to create visual content to communicate messages through typography, imagery, and color theory.', '10 weeks'),
+('Front-End Dev', 75500, 'Build the user-facing side of websites and web applications using HTML, CSS, and JavaScript.', '10 weeks'),
+('Back-End Dev', 90500, 'Develop the server-side logic, database interactions, and APIs for web applications.', '10 weeks'),
+('Website Design (WordPress)', 69000, 'Create and manage websites using WordPress, including themes, plugins, and customizations.', '10 weeks'),
+('Data Analysis', 150000, 'Learn to extract, clean, and analyze data to make informed decisions using tools like Excel, Python, and SQL.', '10 weeks'),
+('Python Programming', 80000, 'Understand the fundamentals of Python programming and develop applications with Python.', '10 weeks'),
+('Mobile App Development', 300000, 'Create mobile applications for iOS and Android platforms using various development frameworks.', '10 weeks'),
+('Video Creation/Editing', 63000, 'Learn techniques for creating and editing videos, including post-production and visual effects.', '10 weeks'),
+('UI/UX Design', 90000, 'Create intuitive and engaging user interfaces that enhance user experience through design and research methods.', '10 weeks'),
+('Cyber Security', 150000, 'Master techniques to protect systems, networks, and data from cyber threats with hands-on security strategies.', '10 weeks'),
+('Digital Marketing', 100000, 'Explore SEO, social media, and PPC campaigns to effectively reach and engage target audiences online.', '10 weeks');
+
+
+
+
+
+
+
+INSERT INTO courses (name, price, overview, duration) VALUES
+('Data Analytics', 150000, 'Extract, clean, and analyze data to drive informed decision-making with tools like Excel, Python, and SQL.', '10 weeks'),
+('Cyber Security', 150000, 'Protect networks, systems, and sensitive data from cyber threats using advanced security techniques.', '10 weeks'),
+('Full Stack Web Development', 166000, 'Build dynamic, responsive websites and applications from the ground up with front-end and back-end technologies.', '10 weeks'),
+('Mobile App Development', 150000, 'Design, develop, and deploy mobile applications for both iOS and Android platforms using modern frameworks and tools.', '10 weeks'),
+('UI/UX Design', 150000, 'Learn how to design user-friendly interfaces that enhance user experiences and improve digital products.', '10 weeks'),
+('Digital Marketing', 150000, 'Master SEO, social media, and PPC to create compelling online campaigns that engage your target audience.', '10 weeks'),
+('Python Programming', 150000, 'Master the essentials of Python, one of the most versatile programming languages, and unlock opportunities in automation, web development, and data science.', '10 weeks'),
+('No-Code Design', 150000, 'Create websites and applications using no-code platforms without needing extensive programming knowledge.', '10 weeks'),
+('Video Editing/Creation', 150000, 'Learn how to create and edit professional-quality videos using industry-standard tools, perfect for digital content and storytelling.', '10 weeks'),
+('Cloud Computing', 150000, 'Get hands-on experience deploying and managing applications in the cloud using AWS, Azure, and Google Cloud.', '10 weeks'),
+('Networking', 150000, 'Build a strong foundation in networking essentials, from configuring routers to managing large-scale networks.', '10 weeks'),
+('Business Analysis', 150000, 'Gain the expertise to analyze business needs, propose effective solutions, and drive operational success.', '10 weeks'),
+('Content Creation', 150000, 'Develop skills in creating digital content for platforms like YouTube, Instagram, and blogs, and effectively engage audiences.', '10 weeks'),
+('Animation', 150000, 'Dive into the world of animation, from character design to motion graphics, using tools like After Effects and Blender.', '10 weeks'),
+('DevOps', 150000, 'Optimize software development and IT operations by mastering automation, continuous integration, and cloud deployment.', '10 weeks');
